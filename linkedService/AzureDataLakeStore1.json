@@ -1,0 +1,13 @@
+{
+	"name": "AzureDataLakeStore1",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDataLakeStore",
+		"typeProperties": {
+			"dataLakeStoreUri": "https://datawarehouse.azuredatalakestore.net/webhdfs/v1",
+			"tenant": "f8cdef31-a31e-4b4a-93e4-5f571e91255a",
+			"subscriptionId": "c225e738-273d-437c-9c3b-e455e681d16e",
+			"resourceGroupName": "DataWarehouse"
+		}
+	}
+}
