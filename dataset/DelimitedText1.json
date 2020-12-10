@@ -12,7 +12,7 @@
 				"type": "AzureDataLakeStoreLocation",
 				"fileName": "02-11-2020.csv"
 			},
-			"columnDelimiter": ",",
+			"columnDelimiter": ";",
 			"escapeChar": "\\",
 			"firstRowAsHeader": true,
 			"quoteChar": "\""
